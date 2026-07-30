@@ -5,7 +5,7 @@ A Machine Learning model designed to perform sentiment analysis on IMDb movie re
 ---
 
 ## 📌 Project Overview
-This project uses Natural Language Processing (NLP) and binary text classification techniques to analyze the sentiment of movie reviews. By processing raw text inputs, the trained model predicts whether a viewer's opinion of a movie is overall positive or negative.
+This project uses binary text classification techniques to analyze the sentiment of movie reviews. By processing raw text inputs, the trained model predicts whether a viewer's opinion of a movie is overall positive or negative.
 
 ## 📊 Model Performance & Results
 - **Accuracy:** **84.4%**
